@@ -1,2 +1,6 @@
 .dbeaver/
 .project
+.gitignore
+.dbeaver/data-sources.json
+.dbeaver/project-settings.json
+
