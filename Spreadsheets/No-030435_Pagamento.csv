@@ -1,0 +1,3 @@
+invoice_id,total_bruto,total_descontos,total_acrescimos,total_liquido,método_pagamento,valor_pago
+30435,"1636,09","6,4",0,"1629,69",Vale Alimentação,"997,81"
+30435,"1636,09","6,4",0,"1629,69",Crédito,"631,88"

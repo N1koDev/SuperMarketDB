@@ -1,0 +1,110 @@
+id_ordem,codigo_produto,nome_produto,unidade,quantidade,valor_unitário,valor_imposto,valor_total,valor_desconto,estabelecimento
+1,61443,Desinfetante Urca Pinho,1x5L,1 UND9 ,12,"3,77",12,,Atacadão Gopiuva
+2,7870,Detergente Líquido Ypê,1x5L,1 UND9 ,"19,75",0,"19,75",,Atacadão Gopiuva
+3,42009,Papel Higiênico Personal VIP K,1x20R50M,1 UND9 ,"48,5","15,25","48,5",,Atacadão Gopiuva
+4,44461,Água Sanitária Suprema,1x5L,1 UND9 ,"9,29","2,92","9,29",,Atacadão Gopiuva
+5,82517,Amaciante Mon Bijou,"1X1,7L",1 UND9 ,"7,65","2,41","7,65",,Atacadão Gopiuva
+6,43298,Limpador Casa Perfume,1x2L,1 UND9 ,"13,8",0,"13,8",,Atacadão Gopiuva
+7,16776,Querosene Bufalo,1x500ML,1 UND9 ,"10,9","4,19","10,9",,Atacadão Gopiuva
+8,42170,Álcool Coperalcool,1X1L,1 UND9 ,"8,99","2,83","8,99",,Atacadão Gopiuva
+9,71615,Lava Roupa Líquido Urca,1x4500ML,1 UND9 ,"19,89",0,"19,89",,Atacadão Gopiuva
+10,82620,Amaciante Mon Bijou,"1X1,7L",1 UND9 ,"7,65","2,41","7,65",,Atacadão Gopiuva
+11,26633,Óleo Peroba,1X200ML,1 UND9 ,"13,5","5,19","13,5",,Atacadão Gopiuva
+12,64389,Sapolio Radium,1x250ML,1 UND9 ,"9,09","3,04","9,09",,Atacadão Gopiuva
+13,86553,Panetone Festtone,1x400G,1 UND9 ,"7,99","2,14","7,99",,Atacadão Gopiuva
+14,76713,Creme de Chantilly Amélia,1x200ML,2 UND9 ,"5,09","3,2","10,18",,Atacadão Gopiuva
+15,54221,Esponja S. Brite Ex,10x1UND,1 PCT4 ,29,"9,12",29,,Atacadão Gopiuva
+16,75527,Iogurte Batavo Morango,1x1150G,2 UND9 ,"9,98",0,"19,96",,Atacadão Gopiuva
+17,79944,Detergente em Pó Surf,"1x2,4G",1 UND9 ,"23,29",0,"23,29",,Atacadão Gopiuva
+18,75978,Requeijão Cremoso Tradicional,1x400G,1 UND9 ,"14,9","3,4","14,9",,Atacadão Gopiuva
+19,82762,Requeijão Itambé Tradicional,1x400G,1 UND9 ,"14,9","3,4","14,9",,Atacadão Gopiuva
+20,67278,Manteiga Tour C/S Lata,1x200G,1 UND9 ,"14,3","3,27","14,3",,Atacadão Gopiuva
+21,50181,Manteiga Aviação,1x200G,1 PTE9 ,"10,9","2,49","10,9",,Atacadão Gopiuva
+22,35926,Margarina Delícia C/Sal,1x500G,1 UND8 ,"6,09","1,92","6,09",,Atacadão Gopiuva
+23,51010,Batata Pré-Frita Mais B,1x2Kg,1 UND9 ,"24,9","7,83","24,9",,Atacadão Gopiuva
+24,18842,Leite Condensado Moça Integral LT,1x395G,3 UND9 ,"7,84","4,14","23,52",,Atacadão Gopiuva
+25,59363,Saco de Lixo Embalixo,1x100UND,1 UND9 ,"10,9","4,04","10,9",,Atacadão Gopiuva
+28,77021,Lã de Aço Assolan,1x45G,1 UND9,"1,69","0,61","1,69",,Atacadão Gopiuva
+29,89248,Sabão Ypê Neutro,1x810G,1 UND9 ,"9,81","3,09","9,81",,Atacadão Gopiuva
+30,38969,Saco de Lixo Biobags 15L,1x60UND,1 UND9 ,"7,5","2,78","7,5",,Atacadão Gopiuva
+31,24122,Laranja Pêra,1x5Kg,1 SCO1 ,21,5,"21,9",6,Atacadão Gopiuva
+32,67308,Limpa Perfume Concórdia Coala,1x120ML,1 UND9 ,"10,5","3,64","10,5",,Atacadão Gopiuva
+33,37838,Sabonete Phebo,1x90G,2 UND9 ,"4,39","2,76","8,78",,Atacadão Gopiuva
+34,75970,Sabonete Nivea Hidratante,1x90G,1 UND9 ,"4,6","2,9","9,2",,Atacadão Gopiuva
+35,87001,Sabonete Francis,1x90G,1 UND9 ,"3,75","1,18","3,75",,Atacadão Gopiuva
+36,46752,Sabonete Phebo Frescor,1x90G,2 UND9 ,"4,39","2,76","8,78",,Atacadão Gopiuva
+38,76124,Café União Extra Forte,10X500G,1 CXA1 ,"139,8","43,97","139,8",,Atacadão Gopiuva
+39,58045,Leite Piracanjuba Integral,1X1L,5 UND9,"4,29","3,77","21,45",,Atacadão Gopiuva
+40,21827,Ovo Branco GD Cinta,1x60UN,1 CXA9 ,"31,9","7,29","31,9",,Atacadão Gopiuva
+41,72209,Óleo Soja Vitaliv,1x900ML,2 UND9 ,"5,95","3,74","11,9",,Atacadão Gopiuva
+42,67146,Aveia Quaker,1x165G,3 UND9 ,"4,8","4,53","14,4",,Atacadão Gopiuva
+43,55436,Goiabada Val Tablete,1x300G,2 UND9 ,"2,79","1,75","5,58",,Atacadão Gopiuva
+44,18176,Linguiça Toscana Calabresa Sadia,1x500g,1 UND8 ,"16,4","5,16","16,4",,Atacadão Gopiuva
+45,67891,Linguiça Mista Marba,1x215G,2 UND9 ,"6,95","4,37","13,9",,Atacadão Gopiuva
+46,47952,Filé de Peixe Tilápia,1x800G,1 UND9 ,"36,9","11,61","36,9",,Atacadão Gopiuva
+47,44184,Hambúrguer Bovino Friboi,1x36x56G,1 CXA2 ,"39,5","12,42","39,5",,Atacadão Gopiuva
+48,82461,Queijo Parmesão Presidente,1x180G,1 UND9 ,"19,98","4,57","19,98",,Atacadão Gopiuva
+49,64823,Filézinho de Frango Sadia,1x1Kg,2 UND9 ,"15,98","10,06","31,96",,Atacadão Gopiuva
+50,71968,Filé Peito de Frango Sadia,1x1Kg,1 BDJ9 ,"19,8","6,23","19,8",,Atacadão Gopiuva
+52,88442,Queijo Cheddar Fatiado,1x140G,1 UND9 ,"10,2","2,33","10,2",,Atacadão Gopiuva
+53,72390,Queijo Prado Presidente,1x300G,1 UND9 ,"15,8","3,61","15,8",,Atacadão Gopiuva
+54,69489,Bebida Cacau ATDC,1XL,1 PTC9 ,"17,98","5,88","17,98",,Atacadão Gopiuva
+55,69490,Bebida Caju com Coco ATDC,1XL,3 PTC9 ,"18,98","18,6","56,94",,Atacadão Gopiuva
+58,4562,Azeite Vede S/C Rivolt,1x400G,1 VDO9 ,"18,5","5,82","18,5",,Atacadão Gopiuva
+59,68483,Leite de Coco Mais Coco,1x200ML,2 UND9 ,"4,99","3,14","9,98",,Atacadão Gopiuva
+60,8833,Macarrão Petybom Pena,1x500G,2 PTC9 ,"3,69","1,97","7,38",,Atacadão Gopiuva
+61,9851,Macarrão Petybom Parafuso Ovo,1x500G,2 PTC9 ,"3,69","1,97","7,38",,Atacadão Gopiuva
+62,3022,Chocolate em Pó Nestle,1x200G,1 PTC9 ,"14,89","4,68","14,89",,Atacadão Gopiuva
+63,72651,Biscoito Marilan,1x350G,1 UND9 ,"6,14","1,93","6,14",,Atacadão Gopiuva
+64,39425,Filtro de Café Brigitta,6x30UND,1 EMB2 ,"17,04","5,56","17,04",,Atacadão Gopiuva
+65,16976,Fermento Dr. Oetker,1x100G,1 UND9 ,"3,09","0,97","3,09",,Atacadão Gopiuva
+66,12576,Macarrão Petybom Espaguete Ovo,1x500G,2 UND9 ,"3,69","1,97","7,38",,Atacadão Gopiuva
+67,70813,Batata Palha Yoki,1x100G,1 UND9 ,"7,99","2,51","7,99",,Atacadão Gopiuva
+68,77678,Queijo Ralado Grosso,1X40G,2 UND9 ,"4,29","1,96","8,58",,Atacadão Gopiuva
+69,1546,"Folha de Alumínio 30x7,5 WYDA",1X1ROLO,1 UND9 ,"4,19","1,36","4,19",,Atacadão Gopiuva
+70,77067,Chocolate Granulado,1x500G,1 UND9 ,"9,49","2,98","9,49",,Atacadão Gopiuva
+71,10863,"Creme Dental Congate 1,12 CL",1x90G,2 UND9 ,"7,85","4,2","15,7",,Atacadão Gopiuva
+72,10872,"Creme Dental Congate 1,12 VH",1x90G,2 UND9 ,"7,85","4,2","15,7",,Atacadão Gopiuva
+73,74968,Biscoito Marilan,1x300G,1 UND9 ,"3,3","1,04","3,3",,Atacadão Gopiuva
+74,77052,Wrap Kim,1X200G,1 UND9 ,"5,99","1,6","5,99",,Atacadão Gopiuva
+76,54051,Coco Flocos Flococo,1x100G,1 UND9 ,"5,34","3,36","10,68",,Atacadão Gopiuva
+77,16924,Biscoito para Cães,1x500G,1 UND9 ,"22,8","8,05","22,8",,Atacadão Gopiuva
+78,16175,Arroz Pateko Tipo 1,1x5Kg,2 PTC8 ,"26,3","16,54","52,6",,Atacadão Gopiuva
+80,14247,Toalha Papel Kitchen,1x2UND60,2 UND9 ,"5,35","3,88","10,7",,Atacadão Gopiuva
+81,68433,Biscoito Piraquê,1x75G,2 UND9 ,"4,69","2,95","9,38",,Atacadão Gopiuva
+82,3063,Saco Picotado,20x28,1 UND9 ,"9,9","3,23","9,9",,Atacadão Gopiuva
+83,68013,Maionese Hellmann's,1x647G,1 UND9 ,"12,98","4,08","12,98",,Atacadão Gopiuva
+84,61283,Ketchup Heinz PET,"1X1,0033K",1 UND9 ,"21,49","6,79","21,49",,Atacadão Gopiuva
+85,83335,Orégano da Terrinha,1x8G,2 UND9 ,"2,29","1,44","4,58",,Atacadão Gopiuva
+86,63312,Tempero Baiano Kitano,1x40G,1 UND9 ,"7,49","2,36","7,49",,Atacadão Gopiuva
+87,14651,Bicarbonato de Sódio Kitano,1x80G,1 PCT9 ,"5,29","1,66","5,29",,Atacadão Gopiuva
+88,5030,Açafrão Kitano,1x50G,1 PCT9 ,"7,99","2,51","7,99",,Atacadão Gopiuva
+90,41256,Vinagre Castelo Álcool,1x750ML,1 UND9 ,"2,45","0,77","2,45",,Atacadão Gopiuva
+91,73276,Tempero Kitano,1x40G,2 UND9 ,"6,29","1,98","6,29",,Atacadão Gopiuva
+92,59309,Sardinha Robinson,1x1x84G,2 UND9 ,"4,79","3,01","9,58",,Atacadão Gopiuva
+93,59308,Sardinha Robinson,1x1x84G,2 UND9 ,"4,79","3,01","9,58",,Atacadão Gopiuva
+94,3321,Azeite Andorinha,1x500ML,1 GFA9 ,"37,9","14,91","37,9",,Atacadão Gopiuva
+95,23113,Azeite Andorinha Extra Virgem,1x500ML,1 GFA9 ,"38,79",0,"38,79",,Atacadão Gopiuva
+96,23421,Tempero Sabor AMI,1x300G,1 PTE9 ,"4,75","1,49","4,75",,Atacadão Gopiuva
+97,23397,Atum Coqueiro Sólido,1x120G,4 UND9 ,"7,99","10,05","31,96",,Atacadão Gopiuva
+99,7019,Mostarda Cepera Bisn,1x200G,1 UND9 ,"5,2","1,64","5,2",,Atacadão Gopiuva
+100,52603,Maionese Heinz Pote,1x400G,1 UND9 ,"18,49","5,82","18,49",,Atacadão Gopiuva
+102,75704,Farofa Pronta,1x400G,1 UND9 ,"4,49","1,41","4,49",,Atacadão Gopiuva
+103,54637,Biscoito Club Social,1x268G,1 UND9 ,"8,29","2,22","8,29",,Atacadão Gopiuva
+104,74127,Mix Top Raiz do Bem,1x210G,1 UND9 ,"19,9","6,26","19,9",,Atacadão Gopiuva
+105,85020,Seleta Legumes Bonare,1x170G,1 UND9 ,"3,69","1,16","3,69",,Atacadão Gopiuva
+106,35641,Champignon C. Belo,1x100G,2 UND9 ,"5,69","4,11","11,38",,Atacadão Gopiuva
+107,85774,Molho Mama D'oro Pouco,1x300G,1 UND9 ,"2,09","0,66","2,09",,Atacadão Gopiuva
+109,75162,Molho Tomate Etti,1x300G,4 UND9 ,"1,49","1,74","5,96","0,4",Atacadão Gopiuva
+110,72488,Gelatina Qualimax,1x20G,2 UND9 ,"1,19","0,74","2,38",,Atacadão Gopiuva
+111,21176,Açúcar Refinado União,1x1Kg,5 PTC9 ,"4,3","6,76","21,5",,Atacadão Gopiuva
+112,42797,Molho Tomate Pomarola,1x300G,2 UND9 ,"3,45","2,18","6,9",,Atacadão Gopiuva
+114,32749,Feijão da Casa,1x1Kg,4 PCT9 ,"6,59","8,29","26,36",,Atacadão Gopiuva
+115,23290,Creme Leite Piracanjuba,1x200g,4 UND9 ,"2,49","2,28","9,96",,Atacadão Gopiuva
+116,72755,Milho Verde Fugini,1x170G,3 UND9 ,"3,19","3,01","9,57",,Atacadão Gopiuva
+120,49632,Palito Bambu Fiat Lux,1x100UN,1 UND9 ,"1,25","0,78","2,5",,Atacadão Gopiuva
+121,10530,Aroma Dr. Oetker Baunilha,1x30ml,1 UND9 ,"7,99","2,6","7,99",,Atacadão Gopiuva
+122,51252,Gelatina Royal,1x25G,2 UND9,"1,69","1,06","3,38",,Atacadão Gopiuva
+124,74145,Farinha de Trigo Três Corações,1x1kg,1 PCT9 ,"2,59","0,69","2,59",,Atacadão Gopiuva
+125,8528,Sal Lebre Refinado,1x1Kg,1 PTC9 ,"2,05","0,43","2,05",,Atacadão Gopiuva
+126,51247,Gelatina Royal,1x25G,1 UND9,"1,69","1,06","3,38",,Atacadão Gopiuva
